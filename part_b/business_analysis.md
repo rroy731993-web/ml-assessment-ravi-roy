@@ -3,7 +3,7 @@ Part B: Business Case Analysis
 B1. Problem Formulation
 
 
-(PART-a) Machine Learning Problem
+(Part-a) Machine Learning Problem
 
 This problem is about predicting how many items will be sold based on different factors. Target variable: items_sold Input 
 features: store size, location type, promotion type, competition density, customer behavior, month, whether it is a weekend 
@@ -20,7 +20,7 @@ This shows an important principle: The target variable should directly match the
 to increase sales volume, so items_sold is a better choice.
 
 
-(Parrt-c) Better modelling strategy
+(Part-c) Better modelling strategy
 
 Instead of using one single model for all stores, we can: Use separate models for different store types (urban, semi-urban, 
 rural) OR Add store-specific features or group-based models This is better because: Different locations behave differently 
