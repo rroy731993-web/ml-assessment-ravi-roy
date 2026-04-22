@@ -1,5 +1,6 @@
 Part B: Business Case Analysis
 
+
 B1. Problem Formulation
 
 
@@ -56,7 +57,10 @@ we can: Use balanced sampling Give more importance (weight) to promotion cases A
 the model learns the real impact of promotions.
 
 
+
+
 B3. Model Evaluation and Deployment
+
 
 
 (Part-a) Train-test split and metrics
@@ -73,7 +77,7 @@ These help understand how far predictions are from actual sales.
 If the model gives different promotions for different months: We check feature importance
 For example:
 December may have festivals → Loyalty Points works better March may be normal → Discount works better
-We can explain to the team: “The model is choosing different promotions because customer behavior and conditions change over time.”
+We can explain to the team: “The model is choosing different promotions because customer behavior and conditions change over time.
 This builds trust in the model.
 
 
